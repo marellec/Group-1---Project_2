@@ -41,6 +41,11 @@ height: auto;
 width:25%;
 }
 
+figcaption{
+font-style: italic;
+text-align: center;
+}
+
 div.sidebar {
 margin: 0;
 margin-top: 2%;
